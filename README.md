@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/0326-power-of-three) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/0326-power-of-three) |
+## Greedy
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
