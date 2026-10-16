@@ -18,16 +18,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
