@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3886-sum-of-sortable-integers](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/3863-minimum-operations-to-sort-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
