@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/2747-count-zero-request-servers) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Memoization
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
