@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/3693-climbing-stairs-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/3886-sum-of-sortable-integers) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
