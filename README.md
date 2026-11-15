@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/0326-power-of-three) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/1882-process-tasks-using-servers) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/3693-climbing-stairs-ii) |
@@ -206,5 +209,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/DivyanshMishra-2315000780/LeetCode--Daily/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
